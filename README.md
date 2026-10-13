@@ -1,11 +1,20 @@
 \# Task 6: Host a Static Website Using GitHub Pages
 
-
+    
 
 \## Project Overview
 
 The objective of this project is to create and host a static portfolio website using GitHub Pages. The website presents my professional profile, technical skills, projects, certifications, and contact information.
+ 
+ ## 🌐 Live Demo
 
+**Visit my deployed portfolio website:**
+
+👉 https://harshgithello.github.io/portfolio/
+
+## 📂 GitHub Repository
+
+Source code: https://github.com/harshgithello/portfolio
 
 
 \## Technologies Used
@@ -59,4 +68,6 @@ portfolio/
 &#x20;   └── workflows/
 
 &#x20;       └── static.yml
+
+
 
